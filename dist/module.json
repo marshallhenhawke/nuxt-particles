@@ -2,7 +2,7 @@
   "name": "nuxt-particles",
   "configKey": "particles",
   "compatibility": {
-    "nuxt": "^3.7.0"
+    "nuxt": "^4.1.3"
   },
   "version": "0.3.1-nuxt4"
 }
